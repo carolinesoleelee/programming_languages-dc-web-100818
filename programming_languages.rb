@@ -16,5 +16,9 @@ def reformat_languages(languages)
       :type => "compiled",
       :style => [:oo]
     },
+    :clojure => {
+      :type => "compiled",
+      :style => [:functional]
+    },
   }
 end
