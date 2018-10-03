@@ -20,5 +20,9 @@ def reformat_languages(languages)
       :type => "compiled",
       :style => [:functional]
     },
+    :erlang => {
+      :type => "compiled",
+      :style => [:functional]
+    },
   }
 end
