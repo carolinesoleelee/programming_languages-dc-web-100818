@@ -12,5 +12,9 @@ def reformat_languages(languages)
       :type => "interpreted",
       :style => [:oo]
     },
+    :java => {
+      :type => "compiled",
+      :style = > [:oo]
+    },
   }
 end
