@@ -7,6 +7,10 @@ def reformat_languages(languages)
     :javascript => {
       :type => "interpreted",
       :style => [:oo, :functional]
-    }
+    },
+    :python => {
+      :type => "interpreted",
+      :style => [:oo]
+    },
   }
 end
