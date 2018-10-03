@@ -3,7 +3,7 @@ def reformat_languages(languages)
     :ruby => {
     :type => "interpreted",
     :style => [:oo]
-  }
+  },
     :javascript => {
       :type => "interpreted",
       :style => [:oo]
