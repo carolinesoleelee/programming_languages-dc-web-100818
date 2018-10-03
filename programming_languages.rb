@@ -1,5 +1,7 @@
 def reformat_languages(languages)
   languages = {
-  :ruby => {"interpreted"}
+  :ruby => {
+    type: "interpreted"
+  }
 }
 end
