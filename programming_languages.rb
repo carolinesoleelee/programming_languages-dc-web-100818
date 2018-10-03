@@ -5,7 +5,7 @@ def reformat_languages(languages)
     :style => [:oo]
   }
     :javascript => {
-      :type => "interpreted"
+      :type => "interpreted",
       :style => [:oo]
     }
   }
