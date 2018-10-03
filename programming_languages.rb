@@ -24,5 +24,9 @@ def reformat_languages(languages)
       :type => "compiled",
       :style => [:functional]
     },
+    :scala => {
+      :type => "compiled",
+      :style => [:functional]
+    },
   }
 end
